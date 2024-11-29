@@ -1,9 +1,9 @@
  /* Estilos para el encabezado */
  header {
-    background-color: #4CAF50;
+    background-color: #5063a1;
     padding: 20px;
     text-align: center;
-    color: white;
+    color: rgb(8, 3, 3);
 }
 
 /* Estilos para la barra de navegación */
@@ -15,7 +15,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ffeb3b;
+    color: #fafaf6;
 }
 
 /* Estilos para la sección principal */
@@ -34,14 +34,14 @@ nav a:hover {
 
 .container p {
     font-size: 16px;
-    color: #555;
+    color: #7dffb3;
     line-height: 1.6;
 }
 
 /* Estilos para el pie de página */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #5acf5a;
+    color: rgb(8, 7, 7);
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
